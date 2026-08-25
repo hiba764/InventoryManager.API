@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InventoryManager.API.Tests/InventoryManager.API.Tests.csproj" Id="249646ca-259a-4a7d-9691-e536c638a5d4" />
+  <Project Path="InventoryManager.API/InventoryManager.API.csproj" />
+</Solution>

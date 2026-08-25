@@ -1,0 +1,42 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.app
+*.log
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+
+# EF Core Migrations / model snapshots - keep source but ignore compiled
+**/Migrations/**/bin/
+
+# Local app settings containing secrets
+appsettings.json
+appsettings.*.json
+
+# SQLite DB files (test DBs)
+*.db
+*.db-shm
+*.db-wal
+
+# Test and build output
+**/TestResults/
+coverage.opencover.xml
